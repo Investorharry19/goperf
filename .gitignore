@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Local data
+*.db
+*.db-wal
+*.db-shm
+
+# macOS
+.DS_Store
+
+steps.md

@@ -1,0 +1,28 @@
+# Progress
+
+- [ ] M0.S1 — Repository skeleton
+- [ ] M1.S1 — Models, interface, dialect, migrations
+- [ ] M1.S2 — SQLite store
+- [ ] M1.S3 — Conformance suite (shared by SQLite and, later, Postgres)
+- [ ] M2.S1 — Histogram and route helpers
+- [ ] M2.S2 — Middleware and response writer
+- [ ] M2.S3 — Aggregator and flusher
+- [ ] M3.S1 — Sampler
+- [ ] M3.S2 — Statsviz integration
+- [ ] M4.S1 — `slog.Handler`
+- [ ] M4.S2 — Async writer
+- [ ] M5.S1 — Config, defaults, validation, `ConfigFromEnv`
+- [ ] M5.S2 — `Monitor`: New, Middleware, LogHandler, Close
+- [ ] M5.S3 — Auth + API handlers + mounting
+- [ ] M6.S1 — Static assets and serving
+- [ ] M6.S2 — Application code
+- [ ] M7.S1 — Rules and metric evaluation
+- [ ] M7.S2 — State machine and engine
+- [ ] M7.S3 — Slack and email notifiers + dispatcher
+- [ ] M8.S1 — Implementation
+- [ ] M9.S1 — Retention loop
+- [ ] M9.S2 — Hardening
+- [ ] M9.S3 — Performance
+- [ ] M10.S1 — Example app and load generator
+- [ ] M10.S2 — Documentation
+- [ ] M10.S3 — Final end-to-end acceptance
